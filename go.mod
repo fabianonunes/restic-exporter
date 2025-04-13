@@ -1,4 +1,4 @@
-module restic-exporter
+module github.com/fabianonunes/restic-exporter
 
 go 1.19
 
